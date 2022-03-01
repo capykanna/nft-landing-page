@@ -44,7 +44,7 @@ window.addEventListener('DOMContentLoaded', () => {
       updateButton();
     });
   }
-});
+})
 
 const checkOwner = async (account) => {
   if(account) {
